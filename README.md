@@ -11,8 +11,8 @@ Young dev from Spain 🇪🇸 that is human certified. I like code in TS, PY.
 
 * 👂 `My name is`: **Rinka**,
 * 👩 `Pronouns`: **He/him**,
-* ⚡ `I'm`: **1X years old**,
-* 🌱 `I’m currently learning`: **Arduino**,
+* ⚡ `I'm`: **14 years old**,
+* 🌱 `I’m currently learning`: **NextJS and Tailwind**,
 * ❤️ `I love`: **Python**  ,
 * 💻 `Favorite lang`: **Python & JavaScript**  
 

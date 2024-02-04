@@ -13,7 +13,7 @@ Young dev from Spain 🇪🇸 that is human certified. I like code in TS, PY.
 * 👩 `Pronouns`: **He/him**,
 * ⚡ `I'm`: **14 years old**,
 * 🌱 `I’m currently learning`: **Web developing**,
-* ❤️ `I love`: **Python**  ,
+* ❤️ `I love`: **hard techno and rap**  ,
 * 💻 `Favorite lang`: **Python & Typescript**  
 
 }
